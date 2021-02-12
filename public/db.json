@@ -1,0 +1,40 @@
+{
+  "printers": [
+    {
+      "id": 0,
+      "name":"Tesla Model X P100D (Performance)" ,
+      "description": "Tesla Model X Performance — самый мощный кроссовер в линейке моделей компании, и самый быстрый SUV в мире. Работая на аккумуляторных батареях с емкостью 100 кВт•ч",
+      "img": "https://cdn.hevcars.com.ua/wp-content/uploads/2016/12/tesla-model-x.png" ,
+      "price":145002 ,
+      "type": "Electric",
+      "date": "43.46 24.52"
+    },
+    {
+      "id": 1,
+      "name": "BMW X3",
+      "description":"Яскравий дизайн BMW X3 по-новому інтерпретує впевненість і незалежність на дорозі. Гармонійні пропорції і потужні контури складається в солідний і представницький зовнішній вигляд, що також знаходить своє продовження і в новому ексклюзивному оформленні інтер'єру." ,
+      "img":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/BMW_X5_%28E53%2C_Facelift%29_%E2%80%93_Frontansicht%2C_12._Juni_2011%2C_D%C3%BCsseldorf.jpg/1200px-BMW_X5_%28E53%2C_Facelift%29_%E2%80%93_Frontansicht%2C_12._Juni_2011%2C_D%C3%BCsseldorf.jpg",
+      "price":1594499,
+      "type":"Gasoline",
+      "date": "07.12.2020 20:23"
+    },
+    {
+      "id": 2,
+      "name": "Mercedes ES 250 Miyata",
+      "description": "Автоматичний коректор кута нахилу передніх фар,Запасне колесо повнорозмірне, легкосплавний диск,Колісні диски легкосплавні,Повторювачі сигналів повороту в корпусі зовнішніх дзеркал ",
+      "img": "https://stock.lexus.ua/uploads/4C/exterior-02_1H9_LA50.png" ,
+      "price": 5943429,
+      "type": "Diesel",
+      "date": "07.12.2020 20:23"
+    },
+    {
+      "id": 3,
+      "name": "Volkswagen ID.4 " ,
+      "description": "VW ID.4 — классический кроссовер ID.4 X и его кросс-купе версия ID.4 Cross. Первая модель получила габариты 4612x1852x1640 мм, вторая — 4592x1852x1629 мм, при это колесная база у них одинаковая и составляет 2765 мм." ,
+      "img": "https://i1.wp.com/itc.ua/wp-content/uploads/2020/06/vw-id.4.jpg?fit=1200%2C800&quality=100&strip=all&ssl=1" ,
+      "price":5443189,
+      "type": "Volkswagen",
+      "date": "07.12.2020 20:23"
+    }
+  ]
+}
